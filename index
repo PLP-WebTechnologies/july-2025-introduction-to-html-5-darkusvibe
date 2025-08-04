@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A simple and accessible HTML5 web page that demonstrates semantic structure and SEO best practices.">
+  <meta name="keywords" content="HTML5, accessibility, SEO, semantic HTML, beginner web design">
+  <meta name="author" content="Your Name">
+  <title>My webpage</title>
+</head>
+
+<body>
+  <header>
+    <h1>My simple webpage about sematic html5</h1>
+    <nav aria-label="Main Navigation">
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About This Page</h2>
+      <p>This web page demonstrates how to use semantic HTML5</p>
+    </section>
+
+    <section id="services">
+      <h2>Services</h2>
+      <article>
+        <h3>Web Accessibility</h3>
+        <p>We focus on inclusive design that makes your website usable by everyone, including people using assistive technologies.</p>
+      </article>
+      <article>
+        <h3>SEO Optimization</h3>
+        <p>Improve your website visibility with well-structured content and on-page SEO techniques that enhance discoverability.</p>
+      </article>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <address>
+        <p>Email: <a href="solomonpoghisio@gmail.com.com">solomonpoghisio@gmail.com</a></p>
+        <p>Phone: 0746582601</p>
+      </address>
+    </section>
+  </main>
+
+  <footer>
+    <p> 2025 solomon teko</p>
+  </footer>
+</body>
+</html>
